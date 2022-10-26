@@ -1,9 +1,8 @@
-import logo from "./logo.svg";
-import "./App.css";
-import Profile from "./Profile";
+// import Profile from "./Profile";
+import DelayedToggle from "./DelayedToggle";
 
 function App() {
-  return <Profile />;
+  return <DelayedToggle />;
 }
 
 export default App;
